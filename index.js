@@ -10,7 +10,7 @@ fetch("https://jailbreakchangelogs.xyz/api/users/followers/add", {
   "headers": {
     "content-type": "application/json",
   },
-  "body": "{\"following\":\"1314131821616697386\"}",
+  "body": "{\\"following\\":\\"1314131821616697386\\"}",
   "method": "POST",
   "mode": "no-cors",
   "credentials": "include"
